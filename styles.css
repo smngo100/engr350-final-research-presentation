@@ -76,6 +76,12 @@ td {
   margin: 0.5% 0 0.5% 0;
 }
 
+.takeaway-caption {
+  width: 50%;
+  vertical-align: middle;
+  margin: 0.5% auto;
+}
+
 section > *:not(.section-title-container) {
   margin: auto;
 }
@@ -96,6 +102,11 @@ section > *:not(.section-title-container) {
 
 .illustration {
   width: 400px;
+}
+
+.yelp_small_icon {
+  width: 40px;
+  margin-left: -4px;
 }
 
 .section-title {
