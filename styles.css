@@ -176,3 +176,10 @@ footer {
   justify-content: space-evenly;
   padding-bottom: 20px;
 }
+
+.name {
+  position: absolute;
+  font-size: 2rem;
+  align-self: center;
+  bottom: 40%;
+}
